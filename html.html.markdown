@@ -168,9 +168,12 @@ useful tips.
 
 HTML is written in files ending with `.html` or `.htm`. The mime type is
 `text/html`.
-**HTML is NOT a programming language**
+ <s> **HTML is NOT a programming language** </s>
+
 ## To Learn More
 
 * [wikipedia](https://en.wikipedia.org/wiki/HTML)
 * [HTML tutorial](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [W3School](http://www.w3schools.com/html/html_intro.asp)
+## Further Reading
+* [**HTML IS a Programming Language (Imperative vs Declarative)**](https://www.youtube.com/watch?v=4A2mWqLUpzw) why it can be described as a language, albeit a special purpose one.
