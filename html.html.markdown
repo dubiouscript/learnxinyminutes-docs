@@ -176,4 +176,7 @@ HTML is written in files ending with `.html` or `.htm`. The mime type is
 * [HTML tutorial](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [W3School](http://www.w3schools.com/html/html_intro.asp)
 ## Further Reading
+* [HyperText Markup Language](https://en.wikibooks.org/wiki/HyperText_Markup_Language) This wikibook  is a guide to HTML, a standard markup language for web pages, which covers simple HTML syntax.
+* [HTML The Living Standard](https://html.spec.whatwg.org/dev/)
+* [HTML Markup Language Reference](http://www.w3.org/TR/html-markup/Overview.html#toc-full)
 * [**HTML IS a Programming Language (Imperative vs Declarative)**](https://www.youtube.com/watch?v=4A2mWqLUpzw) why it can be described as a language, albeit a special purpose one.
