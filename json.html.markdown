@@ -78,8 +78,13 @@ Supported data types:
 }
 ```
 
+JavaScript Object Notation (JSON) is derived from the object literals of JavaScript , JSON is subset of ECMA 262 (javascript). 
+
 ## Further Reading
 
 * [JSON.org](https://json.org) All of JSON beautifully explained using flowchart-like graphics.
 * [JSON Tutorial](https://www.youtube.com/watch?v=wI1CWzNtE-M) A concise introduction to JSON.
-* [The JSON Saga](https://www.youtube.com/watch?v=-C-JoyNuQJs]) the story of how JSON was discovered
+* [The JSON Saga|Heresy and Heretical Open Source: A Heretic's Perspective](https://www.youtube.com/watch?v=-C-JoyNuQJs]) the story of how JSON was discovered
+* [learnxinyminutes javascript](https://learnxinyminutes.com/docs/javascript/)
+* [The JSON data interchange syntax](https://www.ecma-international.org/publications-and-standards/standards/ecma-404/) | [ECMA-404_2nd_edition_december_2017.pdf](https://www.ecma-international.org/wp-content/uploads/ECMA-404_2nd_edition_december_2017.pdf)
+* [JavaScript Object Notation (JSON) Data Interchange Format](https://tools.ietf.org/html/rfc8259)
